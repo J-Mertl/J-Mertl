@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<hr>
+
 <!--
 **J-Mertl/J-Mertl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Mertl&theme=highcontrast)
+<p style="text-align: center;">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Mertl&theme=highcontrast)
+</p>
