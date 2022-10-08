@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p style="text-align: center;">
+<center>
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Mertl&theme=highcontrast)
-</p>
+</center>
